@@ -21,3 +21,8 @@ System.out.println(studentId+"\t\t"+totalScore);
 }
 }
 }
+
+
+
+// Output
+1		402		41   //
